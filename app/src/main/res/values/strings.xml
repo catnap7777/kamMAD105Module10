@@ -1,0 +1,19 @@
+<resources>
+    <!-- <string name="app_name">kamMAD105Module10</string> -->
+    <string name="app_name">TipStar</string>
+    <string name="btn_tip_charge">Calculate Tip</string>
+    <string name="description">Tip Calculator</string>
+    <string name="prompt">Select Tip Amount</string>
+    <string name="txt_bill">Enter dollar Amount of Bill</string>
+    <string name="txt_title">Calculate Your Tip</string>
+    <string-array name="txtGroup">
+        <item>Add 5 percent tip</item>
+        <item>Add 10 percent tip</item>
+        <item>Add 15 percent tip</item>
+        <item>Add 20 percent tip</item>
+        <item>Add 25 percent tip</item>
+    </string-array>
+
+
+
+</resources>
